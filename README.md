@@ -11,4 +11,4 @@
 
 ### Bugs 
 
-~~~Project needs work and code formatting~~~
+```roject needs work and code formatting```
